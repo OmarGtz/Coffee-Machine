@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Companion.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Fix_me.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Reddit.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Calculate_volume.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Concatenate_3_strings_with_separator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Gratuity.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Summation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Currencies.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Danger_level.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Rainbow_colors.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Calculator_with_four_functions.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Patient_needs_a_doctor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Named_arguments-URL.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Busy_internship.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Improve_your_vehicle.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Pumpkin_and_candle.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Blocks_in_a_box.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Board_game_basics__Game.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Cell.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Library.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Manager.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-City_population.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Open_chest_in_Hogwarts.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="Coffee_Machine.Topics-Values_and_variables-Fix_declarations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Values_and_variables-Fix_the_program.main" target="11" />
+      <module name="Coffee_Machine.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Coffee_Machine.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Values_and_variables-val_or_var_.main" target="11" />
+      <module name="Coffee_Machine.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
+      <module name="Coffee_Machine.Topics-When_expression-Floor-space_of_the_room.main" target="11" />
+      <module name="Coffee_Machine.Topics-When_expression-String_processor.main" target="11" />
+      <module name="Coffee_Machine.Topics-When_expression-Strings_as_objects.main" target="11" />
+      <module name="Coffee_Machine.Topics-When_expression-The_army_of_units.main" target="11" />
+      <module name="Coffee_Machine.Topics-When_expression-The_number_of_digits.main" target="11" />
+      <module name="Coffee_Machine.Topics-When_expression-Theory.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
